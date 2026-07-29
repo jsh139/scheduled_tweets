@@ -1,0 +1,8 @@
+Consumer Key - 84qe2EdkwEZbATq90vtpKzIYo
+Secret Key - JzZPYlFOAkiKa1z7WuO2lFIB6S4NhJpEOJTpAaOLhvqtQ3cxkx
+
+Bearer Token - AAAAAAAAAAAAAAAAAAAAAOip%2BgEAAAAAos5Lp6Arq4kAQhaHXuYwLYjf4vg%3DtPVtxm0yASqFXdK5bjB2kO826UaWZNHxb3vnvpW9yEmhTlRo9x
+
+OAuth2
+Client ID - ejJlMkxJZURUZjExY04zWUwwcjc6MTpjaQ
+Client Secret - 2UqOsqBScCFT5WSoHTr6yyqhXTA3ZYsysqeksrT3mMo_gSI5Yg
